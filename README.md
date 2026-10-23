@@ -8,6 +8,10 @@ A simple yet modern Flutter application that implements an interactive counter u
 - **Interactive Counter**: Real-time counter increments using a floating action button (`FloatingActionButton`).
 - **Widget Tests**: Integrated automated tests verifying the initial state and correct increment behavior.
 
+## Screenshot
+
+![My Counter App](assets/screenshots/my_counter_app.png)
+
 ## Project Structure
 
 - `lib/main.dart`: Entry point of the application (`MyApp` and `MaterialApp` theme configuration).
