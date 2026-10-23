@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'My Counter App',
+      title: 'My Counter',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
           seedColor: Colors.cyan,

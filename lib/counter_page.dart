@@ -36,7 +36,7 @@ class _CounterPageState extends State<CounterPage> {
       floatingActionButton: FloatingActionButton(
         onPressed: () {
           setState(() {
-            counter++;
+            counter+=2;
           });
         },
         child: const Icon(Icons.add),
